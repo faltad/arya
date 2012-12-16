@@ -1,0 +1,22 @@
+.art {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #DFDFDF;
+}
+
+.art-next {
+    text-align:center;
+}
+
+.art-next a {
+    color:#3F3F3F;
+}
+
+.art-next a:hover {
+    color:#000000;
+}
+
+.italic {
+    font-style:italic;
+    font-size: small;
+}
